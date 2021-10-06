@@ -23,7 +23,7 @@ body {
 }
 @media (min-width: 992px) { 
     .card .container {
-        width: 40%;
+        width: 30%;
     }
     .card .container .background {
         padding: 40px;
